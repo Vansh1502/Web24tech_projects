@@ -1,0 +1,15 @@
+Text: I love this product! It's amazing.
+Sentiment: Positive (Polarity: 0.6125, Subjectivity: 0.75)
+
+Text: This is the worst service I have ever received.
+Sentiment: Negative (Polarity: -1.0, Subjectivity: 1.0)
+
+Text: I'm not sure how I feel about this.
+Sentiment: Negative (Polarity: -0.25, Subjectivity: 0.8888888888888888)
+
+Text: Absolutely fantastic experience!
+Sentiment: Positive (Polarity: 0.5, Subjectivity: 0.9)
+
+Text: It was okay, nothing special.
+Sentiment: Positive (Polarity: 0.4285714285714286, Subjectivity: 0.5357142857142857)
+
